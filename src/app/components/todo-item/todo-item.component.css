@@ -1,0 +1,20 @@
+.delete {
+    display: inline-block;
+    float: right;
+    padding: 5px 9px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.todo {
+    background: #f4f4f4;
+    padding: 10px;
+    border-bottom: 1px #ccc dotted;
+}
+
+.is-completed {
+    text-decoration: line-through;
+}
